@@ -19,20 +19,23 @@
 
 ## ¿Quién soy?
 
-Soy **Efren David Jimenez Martinez**, desarrollador de software y egresado de la **Licenciatura en Informática**. Me enfoco en el **desarrollo web, el frontend y el diseño de interfaces**, y me gusta crear aplicaciones atractivas, funcionales y centradas en el usuario.
+Soy **Efren David Jimenez Martinez**, desarrollador de software y egresado de la Licenciatura en Informática. Me enfoco en el **desarrollo web, el frontend y el diseño de interfaces**, y disfruto crear aplicaciones atractivas, funcionales y centradas en el usuario.
 
-| | |
-|---|---|
-| 🧑‍💻 **Profesión** | Desarrollador de software |
-| 🎓 **Estudié en** | Universidad de la Sierra Juárez (UNSIJ), Ixtlán de Juárez |
-| 📘 **Carrera** | Licenciatura en Informática (egresado) |
-| 🌎 **Soy de** | Oaxaca, México |
-| 🎯 **Busco** | Vacantes Frontend / Web / backend / |
-| 🗣️ **Idiomas** | Español (nativo) · Inglés (intermedio) |
+<div align="center">
+
+<img src="https://img.shields.io/badge/Profesi%C3%B3n-Desarrollador_Frontend_%26_Web-2563eb?style=for-the-badge&logo=react&logoColor=white&labelColor=0f172a" alt="Profesión" />
+<br/>
+<img src="https://img.shields.io/badge/Carrera-Licenciatura_en_Inform%C3%A1tica_(egresado)-2563eb?style=for-the-badge&labelColor=0f172a" alt="Carrera" />
+<br/>
+<img src="https://img.shields.io/badge/Universidad-UNSIJ_%C2%B7_Ixtl%C3%A1n_de_Ju%C3%A1rez-2563eb?style=for-the-badge&labelColor=0f172a" alt="Universidad" />
+<br/>
+<img src="https://img.shields.io/badge/Origen-Oaxaca_%C2%B7_Comunidad_Ayuuk_(Mixe)-2563eb?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0f172a" alt="Origen" />
+
+</div>
 
 ---
 
-## 🛠️ Mi stack
+## Mi stack
 
 **Frontend**
 
@@ -59,11 +62,22 @@ Soy **Efren David Jimenez Martinez**, desarrollador de software y egresado de la
 
 ## En lo que me enfoco
 
-- Construir interfaces limpias, accesibles y fáciles de usar
-- Desarrollar APIs REST con Java y Spring Boot
-- Trabajar en equipo con Git, GitHub y metodologías ágiles
-- Seguir aprendiendo de forma continua: frontend, diseño de interfaces y aplicaciones
-- Fuera del código: básquetbol, ajedrez y dibujo
+> **No necesito conocer todas las tecnologías: necesito saber aprender cualquiera.**
+> Si una herramienta es nueva para mí, la investigo, la practico y la aplico hasta dominarla.
+
+<div align="center">
+
+**Investigo** &nbsp;➜&nbsp; **Practico** &nbsp;➜&nbsp; **Aplico** &nbsp;➜&nbsp; **Mejoro**
+
+</div>
+
+- **Me adapto rápido** a nuevas tecnologías, equipos y retos
+- **Aprendizaje continuo:** siempre hay algo nuevo que construir y mejorar
+- **Frontend e interfaces:** limpias, accesibles y fáciles de usar
+- **Backend:** APIs REST con Java y Spring Boot
+- **Trabajo en equipo** con Git, GitHub y metodologías ágiles
+- **Explorando:** WebXR, A-Frame y la integración de IA mediante API
+- **Fuera del código:** básquetbol, edición, ajedrez y dibujo
 
 ---
 
