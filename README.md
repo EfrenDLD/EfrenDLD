@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Efren David - Desarrollador Frontend, Web y Móvil" width="100%" />
-
 <a href="https://github.com/EfrenDLD">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=dbd6d6&center=true&vCenter=true&width=620&lines=Egresado+en+Inform%C3%A1tica+%7C+UNSIJ;Interfaces+web+con+React;Backend+con+Java+y+Spring+Boot;Aprendiendo+y+construyendo+cada+d%C3%ADa" alt="Typing SVG" />
 </a>
@@ -39,11 +37,11 @@ Soy **Efren David Jimenez Martinez**, desarrollador de software y egresado de la
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,flutter,bootstrap&perline=10" alt="Frontend" />
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,bootstrap&perline=10" alt="Frontend" />
 
 **Backend y bases de datos**
 
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,maven,mysql&perline=10" alt="Backend y bases de datos" />
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,maven,mysql,mongodb,postgres,dart&perline=10" alt="Backend, bases de datos y Dart" />
 
 **Móvil y herramientas**
 
