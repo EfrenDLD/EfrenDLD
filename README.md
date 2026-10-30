@@ -19,17 +19,17 @@
 
 ## ¿Quién soy?
 
-Soy **Efren David Jimenez Martinez**, desarrollador de software y egresado de la Licenciatura en Informática. Me enfoco en el **desarrollo web, el frontend y el diseño de interfaces**, y disfruto crear aplicaciones atractivas, funcionales y centradas en el usuario.
+Soy **Efren David Jimenez Martinez**, desarrollador de software y egresado de la Licenciatura en Informática. Me enfoco en el **desarrollo de software y el diseño de interfaces**, y disfruto crear aplicaciones atractivas, funcionales y centradas en el usuario.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Profesi%C3%B3n-Desarrollador_Frontend_%26_Web-2563eb?style=for-the-badge&logo=react&logoColor=white&labelColor=0f172a" alt="Profesión" />
+<img src="https://img.shields.io/badge/Profesi%C3%B3n-Desarrollador_de_software_-2563eb?style=for-the-badge&logo=react&logoColor=white&labelColor=0f172a" alt="Profesión" />
 <br/>
 <img src="https://img.shields.io/badge/Carrera-Licenciatura_en_Inform%C3%A1tica_(egresado)-2563eb?style=for-the-badge&labelColor=0f172a" alt="Carrera" />
 <br/>
 <img src="https://img.shields.io/badge/Universidad-UNSIJ_%C2%B7_Ixtl%C3%A1n_de_Ju%C3%A1rez-2563eb?style=for-the-badge&labelColor=0f172a" alt="Universidad" />
 <br/>
-<img src="https://img.shields.io/badge/Origen-Oaxaca_%C2%B7_Comunidad_Ayuuk_(Mixe)-2563eb?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0f172a" alt="Origen" />
+<img src="https://img.shields.io/badge/Origen-Oaxaca_%C2%B7_Sierra_Norte-2563eb?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0f172a" alt="Origen" />
 
 </div>
 
@@ -47,13 +47,13 @@ Soy **Efren David Jimenez Martinez**, desarrollador de software y egresado de la
 
 **Móvil y herramientas**
 
-<img src="https://skillicons.dev/icons?i=flutter,git,github,vscode,idea,postman,aws&perline=10" alt="Herramientas" />
+<img src="https://skillicons.dev/icons?i=flutter,git,github,vscode,idea,postman,figma,aws&perline=10" alt="Herramientas" />
 
 **Metodologías:** Scrum · Kanban
 
 ---
 
-## 🎓 Certificaciones
+## Certificaciones
 
 <img src="https://img.shields.io/badge/Fundamentos_de_Ciberseguridad-Cisco-049fd9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco" />
 <img src="https://img.shields.io/badge/Scrum_Fundamentals-SCRUMstudy-0f172a?style=for-the-badge" alt="SCRUMstudy" />
@@ -96,7 +96,7 @@ Soy **Efren David Jimenez Martinez**, desarrollador de software y egresado de la
 
 ---
 
-## 📫 Hablemos
+## Hablemos
 
 ¿Tienes una vacante, un proyecto o quieres colaborar? Escríbeme:
 
